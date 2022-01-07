@@ -34,7 +34,6 @@ jobs:
       name: Build & push Docker image
       with:
         image: proficientcomputing/demo-app
-        tags: v1, latest
         registry: docker.io
         dockerfile: Dockerfile
         username: ${{ secrets.DOCKER_USERNAME }}
