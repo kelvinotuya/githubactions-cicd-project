@@ -1,3 +1,3 @@
 # githubactions-cicd-project
-
-Kelvin Otuya
+Docker build git actions
+by Kelvin Otuya
